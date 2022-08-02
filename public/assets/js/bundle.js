@@ -27560,11 +27560,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _modules_login__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./modules/login */ "./frontend/modules/login.js");
 
 
-
-var login = new _modules_login__WEBPACK_IMPORTED_MODULE_2__["default"]('.form-login');
-var cadastro = new _modules_login__WEBPACK_IMPORTED_MODULE_2__["default"]('.form-cadastro');
-login.init();
-cadastro.init(); // import './assets/css/style.css'
+ // import './assets/css/style.css'
 })();
 
 /******/ })()
